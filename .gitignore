@@ -1,0 +1,63 @@
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.a
+*.so
+*.dll
+*.exe
+*.out
+*.app
+*.dylib
+
+# Compiled Dynamic libraries
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lib
+
+# Compiled source
+*.com
+*.class
+*.jar
+*.pyc
+*.pyo
+
+# Backup files
+*.bak
+*.old
+*.swp
+*.swo
+*.swn
+
+# CLion
+.idea/
+cmake-build-*/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.temp
+*.tmp
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+# Editor-specific files
+.vscode/
